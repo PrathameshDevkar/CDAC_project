@@ -1,4 +1,4 @@
 # CDAC_project
 Deep fake detection
 
-The goal of this project is to develop a robust and efficient system that combines computer vision and natural language processing techniques to detect objects and extract text from images ( optional and videos). By leveraging state-of-the-art algorithms and deep learning models, the system will accurately identify and classify objects, providing precise localization and labeling information.
+The goal of this project is to develop a robust and efficient system that will identify fake videos and real vidoes by using deep neural network models and computer vision techniques to extract frames from videos, detect faces and extract features.
